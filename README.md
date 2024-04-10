@@ -1,1 +1,1 @@
-# googlenet-gradcam
+# googlenet-gradcam-cifar10
